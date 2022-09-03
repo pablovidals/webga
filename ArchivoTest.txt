@@ -1,2 +1,2 @@
 Configuraciones iniciales de Git se han realizado con exito.
-Ahora en la estapa de usar ramas.
+Ahora en la etapa de usar ramas.
