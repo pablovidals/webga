@@ -1,1 +1,2 @@
-Archivo de prueba
+Configuraciones iniciales de Git se han realizado con exito.
+Ahora en la estapa de usar ramas.
